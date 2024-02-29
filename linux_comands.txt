@@ -1,0 +1,30 @@
+1  cd -->qarsisina yzilmalidir kecis faylin adi--> comandasi fayillar arasinda kecisi temin edir 
+
+2 ls  -->  emri oldugumuz location daki butun fayillari list edir amma gizli olmuyanlari 
+
+3 ls -l --> bize hemcinin faylarimizin  icazeleri tarix ve  yadasdaki tutumu haqda melumatlari list edir 
+
+3 ls -a -->  gizli faylari list edir qarsisnda noqete olan fayillar gizli fayildir 
+
+4 ls -la --> hem gizli hemde normal fayilarimizi yads byte , tarix  ve icazeleri ile birlikde bize gosterir 
+
+5 ls -lh --> list ederken   yadsda tutlan yeri bit kimi yox basa duseceyimiz  mb  kb  kimi qeyd edir 
+
+6 mkdir -->yardacagimiz faylin adiniqarsisna qeyd edirik--> hal hazirda oldugumuz locationda fayil yardir    hansiki biz onlara cd -->  ile kecis edirdik 
+
+7 touch -->qarsisna elave edilmelidir yaradacagimiz metin senedinin adi--> bu fayillarimiz icnde .txt  , .go , .java  uzantili sendeler yaradir  bu   windovsda  metin senedi yardilmasi ile texminen eynidir 
+
+8 nano   --> bu komanda  bizim yardigimiz uzantili senedin icne qeydlerimizi aparmaq  ucndur  bu fayldan asli olaraq herhansi bir kod  ve ya indi yazdigim kimi metin sendei ola biler 
+
+9 rm -r  --> yardugimiz her hansi fayli metin senedi silir  delete komadasidir bir nov 
+
+10 rm -rf -->  cox diqetli istfade edilmelidir cunki mecburi silir hecbir xeta vermir silinmeye mecbur edir  bu silincek fayldan hecbir geridonus ola bilmez 
+
+11 rmdir --> sadece ve sadece bos fayli sile biler yeni faylin icinde her hansi bir noqte bele varsa silmeyecek 
+
+12 cat -->  faylin icini gosterir ne oldugunu yeni 
+
+13 less --> faylin boyuk fayllarin icini daha etrafli gostermeye  gezinmeye komek edir 
+ 
+14  cp  yuklemeniedceyim_fayil  hedef_kopy_gotureceyim_fayil  --> fayillari kopyalama islerini gorur 
+

@@ -1,0 +1,22 @@
+1  git init --> bu emr bir nov oldgumuz location da github lokal  bos deposunu yaradir hansiki biz oz url mizle bu deponu hansi uzax depo repsozitorya baglayacagimza ozumuz qerar veririk
+hemcinin burani biz  bir nov staging area kimi de adlandira bilerik hansiki github gonderceymiz fayillari orada depolayiry
+
+2  git add  readme.md -->  bu emir bizim  github gondermek isdediymiz fayillarimizi  staging area dediyim lokal daki github depomuza gonderir  
+
+3  git status -->  bu emir  hansiki  biz staging area gonderdiyimz ve ya  gondermediyimz fayillar onlari list ederek gosterir qirmizi renkde olanlar gonderilmeyenlerdir
+
+4 git commit "....  "  -->  bu emir bizim github deposunda son  elediyimiz deysiklikler haqinda qisa ve net bir  acixlama mesajidir , buradaki qeydimiz  gordymuz is haqinda aciqlayci ve net olmalidir 
+
+5 git  remote add origin "https://github.com/Resul-Necefli/...." -->  bu  comand bizim butun bu projectmizi hansi repozitriyaya gondermek isdedyimizi bildrmeyimiz ucundur  repozitoriya adi project uygun 
+secilmelidir 
+
+6 git push -u origin main --> bu comanda bizim  staging area da olan fayillarimizi   lokal depomuzdaki bagldigimiz uzaq depodaki repozitoryiya  gonderir 
+
+7 git clone "https://github.com/Resul-Necefli/exrcises" --> bu komanda ona bildirdiyimiz url deki repozitoryadan butun kodlari endrir ve biz bu kodlari oz loklamiza elave etmis oluruq 
+
+8 git pull -->  bu komanda bizim son defe lokala endirdiyimiz project ve ya kodlari  son veziyentine uygun olaraq yenileyir  project uzerinde 2 ve daha artiq neferlerle isleyirkse bunu tez tez etmeliyik
+
+git checkout --> bu emir fillalarimiz arasinda kecidi yaradir  
+
+
+BUQDER DIGER KOMANDLAR HAQDA IRERLEYEN DERSLERDEN SONRA QEYD APARACAM! 
